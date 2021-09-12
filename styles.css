@@ -1,0 +1,77 @@
+/*.top {
+  display: inline;
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  border: solid 10px;
+  padding: 20px;
+}
+
+.middle {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: solid 20px;
+}
+
+.bottom {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  border: solid 10px;
+#jek {
+  display: inline;
+font-size: 50px;
+}
+p
+  {
+    display: inline;
+  }
+  .al{
+    margin-left: 30%;
+    display: inline;
+  }
+.ji{
+  margin-left: 30%;
+  display: inline;
+  width: 600px;
+}*/
+body {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  font-family: "Hendrerit" 'Merriweather', serif;
+}
+
+h1 {
+  font-family:'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: ARIAL ,'Sacramento', cursive;
+}
+
+.alu {
+  position: absolute;
+  top: 5px;
+  margin: 0;
+}
+
+.al {
+  position: relative;
+  left: 200px;
+}
+
+.XOJI {
+  border-radius: 360PX;
+  border-color: RED;
+  border-style: dotted;
+  border-style: solid;
+}
+.xoji-mahorat{
+  border-radius: 100PX;
+  border-style: solid;
+  border-color: blue;
+}
+.tables { display: inline;
+  text-align: center;
+}
